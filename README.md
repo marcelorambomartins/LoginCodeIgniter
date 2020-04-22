@@ -6,6 +6,9 @@ Esqueleto pronto de login com Codeigniter
 - PHP 7.2
 
 ## Como Usar
+- Em app > Config > App.php
+na configuração: $baseURL
+Trocar "LoginCodeIgniter" para o nome do seu projeto
 
 - usar do arquivo usuario.sql
 - Configurar o nome do banco com o nome do projeto
